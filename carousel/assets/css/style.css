@@ -1,6 +1,6 @@
 
 body{
-background-image: url('./assets/img/pexels-photo-1939485.jpeg');
+background-image: url('../img/pexels-photo-1939485.jpeg');
 
 }
 
@@ -18,7 +18,7 @@ background-image: url('./assets/img/pexels-photo-1939485.jpeg');
   height: 349px;
   width: 300px;
   border-radius: 100%;
-  background-image: url('./assets/img/thumbnail_large.jpg');
+  background-image: url('../img/thumbnail_large.jpg');
   background-position: 0em -1em;
   background-size: cover;
 
@@ -181,27 +181,27 @@ background-image: url('./assets/img/pexels-photo-1939485.jpeg');
 
 
 .ecommerce{
-    background-image: url('./assets/img/e-commerce.PNG');
+    background-image: url('../img/e-commerce.PNG');
     background-size: cover;
 
 }
 .my2048{
-    background-image: url('./assets/img/2048.PNG');
+    background-image: url('../img/2048.PNG');
     background-size: cover;
 
 }
 .mypaint{
-    background-image: url('./assets/img/MyPaint.PNG');
+    background-image: url('../img/MyPaint.PNG');
     background-size: cover;
 
 }
 .chat{
-    background-image: url('./assets/img/MyChat.PNG');
+    background-image: url('../img/MyChat.PNG');
     background-size: cover;
 
 }
 .cassebrique{
-    background-image: url('./assets/img/casse-brique.PNG');
+    background-image: url('../img/casse-brique.PNG');
     background-size: cover;
 
 }
